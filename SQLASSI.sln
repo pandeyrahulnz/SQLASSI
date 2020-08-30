@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30420.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLASSI", "SQLASSI\SQLASSI.csproj", "{7FAA7BE1-AE00-4867-96CE-635400A38947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTING", "TESTING\TESTING.csproj", "{0F447AB7-F244-4D09-8384-AF5F5077CE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FAA7BE1-AE00-4867-96CE-635400A38947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAA7BE1-AE00-4867-96CE-635400A38947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAA7BE1-AE00-4867-96CE-635400A38947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAA7BE1-AE00-4867-96CE-635400A38947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F447AB7-F244-4D09-8384-AF5F5077CE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F447AB7-F244-4D09-8384-AF5F5077CE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F447AB7-F244-4D09-8384-AF5F5077CE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F447AB7-F244-4D09-8384-AF5F5077CE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1358EE55-7E7F-4EA7-9203-A70B7AA3C910}
+	EndGlobalSection
+EndGlobal
